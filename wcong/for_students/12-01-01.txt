@@ -1,0 +1,7 @@
+1. Please give attribution for your environment map image INCLUDING any conversion process you did.
+
+https://opengameart.org/content/night-skyboxes
+
+2. Please explain what you were trying to make with your bump/normal map, and whether it is a bump or normal map.
+
+Its supposed to be a face with freckles (bump map)

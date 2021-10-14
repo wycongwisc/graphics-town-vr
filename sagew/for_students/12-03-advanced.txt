@@ -1,0 +1,26 @@
+Advanced Thing: Complex Behaviour (#2)
+Birds use a state machine to decide if they should fly around aimlessly or land on a roof of a house, they will take off again if the roof is destroyed.
+
+Advanced Thing: Complex Behaviour (#2)
+Sand shader rolls sand into the water if there are no neighbors (doesn't work at diagonal corners, only on edges);
+
+Advanced Thing: Complex Behaviour (#2)
+Boats turn randomly and attempt to avoid hitting land with 3 "sensors" in front of them (there are a couple issues with this, namely they can't turn fast enough in certain situations)
+
+Advanced Thing: Complex Behaviour (#2)
+Building Placement: difficult to describe all the actions, but building pieces react to their neighbors presence/lack of and will adjust accordingly. Different building pieces can appear depending on configuration.
+
+Advanced Thing: Animated Shader Effect (#5)
+Water texture shifts vertices and colors depending on time-based sin wave
+
+Advanced Thing: Key-Framing (#7)
+Birds' wing movements are animated in blender using key-framed animation
+
+Advanced Thing: Procedurally Generated Geometry (#11), Use Noise (#12)
+Sand shape is generated based off of simplex noise (layered frequencies) and existance of neighbors (rolls off into water if no neighbors on side)
+
+Advanced Thing: Other:
+A couple other game features including:
+- New camera system with new controls
+- Raycasting to determine building direction
+- Many "placement" mechanics

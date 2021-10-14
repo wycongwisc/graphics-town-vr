@@ -1,0 +1,24 @@
+Two kinds of objects created for this assignment:
+1. Boat No. 0* - Boat modeled and texture painted in Blender
+2. SandBox <-1, 0>* - One piece of sand floor that has geometry generated in shader (more on this later)
+
+Five other kinds of objects that you created:
+3. TreeDecoration <3, 0.5, 3>* - Tree modeled and painted in blender
+4. WaterBox <5, 5>* - Water box with animated vertex shader and color
+5. Bird No. 0 - Bird modeled, painted, and animated in blender with behaviour
+6. ArchBox <-2, 1, 0> - Arch modeled and painted in blender
+7. WindmillBox <-8, 3, 7> - Windmill modeled and painted in blender
+
+(^ these last two cannot be highlight because of a restriction with the framework
+that I did not have time to fix - dynamic object list)
+
+At least on of each type of object:
+Building/structure: ArchBox <-2, 1, 0> - Arch modeled and painted in blender
+Vehicle: Boat No. 0* - Boat modeled and texture painted in Blender
+Natural Element: TreeDecoration <3, 0.5, 3>* - Tree modeled and painted in blender
+
+Object loaded from a model file:
+Model: TreeDecoration <3, 0.5, 3>* - Tree modeled and painted in blender
+
+An object with a shader that you wrote:
+ShaderObj: SandBox <-1, 0>* - One piece of sand floor that has geometry generated in shader (more on this later)

@@ -1,0 +1,11 @@
+Three different behaviors that you made:
+1. Boat No. 0* - Boats randomly turn left and right, and attempt to avoid hitting land (sometimes do if they have nowhere to go)
+2. Bird No. 0* - Birds fly randomly until a roof is available and then they may choose to land on it (one bird per roof). (Simple state machine)
+3. WaterBox <5, 5>* - Animated shader that imitates waves by adjusting height of cube vertices by a sin wave
+
+One behavior that is not simple:
+Not simple: Bird No. 0* - See description above
+or: Sand and house placement system
+
+Animated Articulated Figure:
+Articulated: Bird No. 0* - Bird is animated (in Blender) and flaps 2-jointed wings (pieces rotate off preceding joints). Flap speed is relative to world speed as well
