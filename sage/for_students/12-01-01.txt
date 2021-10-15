@@ -1,0 +1,13 @@
+1. Please give attribution for your environment map image INCLUDING any conversion process you did.
+
+Map: Greg Zaal, HDRI Haven, CC0
+https://hdrihaven.com/hdri/?c=urban&h=shanghai_bund
+Converted to cubemap using:
+https://www.360toolkit.co/convert-spherical-equirectangular-to-cubemap
+
+2. Please explain what you were trying to make with your bump/normal map, and whether it is a bump or normal map.
+
+Bump map is a brick texture
+
+Source: Filter Forge demos, filterforge.com
+https://www.filterforge.com/filters/12189-bump.html

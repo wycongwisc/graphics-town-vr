@@ -682,6 +682,10 @@ export class GrWorld {
         }
         // since we're already running an animation loop, update view controls here.
         // Pass in a delta since that's what fly controls want. Orbit controls can just ignore.
+
+        this.vrHelper.update()
+        this.stats.update()
+
         if ((this.view_mode == "Orbit Camera") && this.orbit_controls) {
             this.orbit_controls.update();
         }
@@ -717,8 +721,6 @@ export class GrWorld {
             // window.requestAnimationFrame(loop);
 
             self.renderer.setAnimationLoop(loop)
-            self.vrHelper.update()
-            self.stats.update()
         }
         loop();
     }
