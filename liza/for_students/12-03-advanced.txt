@@ -1,0 +1,10 @@
+Advanced Thing: 
+- boat movement
+- car movement
+- car object
+- boat object
+- statue
+- tree object (has different parameters to modify its appearance in a variety of ways)
+- giraffe object (parameters can modify the movement and the appearance, as well as having a complex shape)
+- large diversity
+- fish movement (they are on a timer which is randomly generated upon their construction)

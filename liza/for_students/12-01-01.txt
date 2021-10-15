@@ -1,0 +1,7 @@
+1. Please give attribution for your environment map image INCLUDING any conversion process you did.
+
+The environment map is just a square image that I created myself.
+
+2. Please explain what you were trying to make with your bump/normal map, and whether it is a bump or normal map.
+
+I created a bump map. It is just a small change to make it look like there are small, circular indents in the sphere.

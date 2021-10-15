@@ -1,0 +1,21 @@
+Two kinds of objects created for this assignment:
+1. boat
+2. ticket booth
+
+Five other kinds of objects that you created:
+3. mountain
+4. car
+5. tree
+6. house
+7. statue
+
+At least on of each type of object:
+Building/structure: house
+Vehicle: flying sports car
+Natural Element: tree
+
+Object loaded from a model file:
+Model: butterflies
+
+An object with a shader that you wrote:
+ShaderObj: giraffe

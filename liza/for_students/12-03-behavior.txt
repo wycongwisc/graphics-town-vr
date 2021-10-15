@@ -1,0 +1,10 @@
+Three different behaviors that you made:
+1. flying car
+2. boat
+3. giraffe
+
+One behavior that is not simple:
+Not simple: boat, car, fish
+
+Animated Articulated Figure:
+Articulated: giraffe
