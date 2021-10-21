@@ -22317,41 +22317,34 @@ function WebXRManager( renderer, gl ) {
 
 			const attributes = gl.getContextAttributes();
 
-			const setSession = function() {
-				const layerInit = {
-					antialias: attributes.antialias,
-					alpha: attributes.alpha,
-					depth: attributes.depth,
-					stencil: attributes.stencil,
-					framebufferScaleFactor: framebufferScaleFactor
-				};
-	
-				// eslint-disable-next-line no-undef
-				const baseLayer = new XRWebGLLayer( session, gl, layerInit );
-	
-				session.updateRenderState( { baseLayer: baseLayer } );
-	
-				session.requestReferenceSpace( referenceSpaceType ).then( onRequestReferenceSpace );
-	
-				//
-	
-				session.addEventListener( 'inputsourceschange', updateInputSources );
-			};
-
 			if ( attributes.xrCompatible !== true ) {
 
-				gl.makeXRCompatible( setSession );
-
-			} else {
-
-				setSession();
+				gl.makeXRCompatible();
 
 			}
+
+			const layerInit = {
+				antialias: attributes.antialias,
+				alpha: attributes.alpha,
+				depth: attributes.depth,
+				stencil: attributes.stencil,
+				framebufferScaleFactor: framebufferScaleFactor
+			};
+
+			// eslint-disable-next-line no-undef
+			const baseLayer = new XRWebGLLayer( session, gl, layerInit );
+
+			session.updateRenderState( { baseLayer: baseLayer } );
+
+			session.requestReferenceSpace( referenceSpaceType ).then( onRequestReferenceSpace );
+
+			//
+
+			session.addEventListener( 'inputsourceschange', updateInputSources );
 
 		}
 
 	};
-
 
 	function updateInputSources( event ) {
 
