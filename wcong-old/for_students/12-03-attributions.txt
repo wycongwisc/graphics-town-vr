@@ -1,0 +1,7 @@
+List all attributions here, this include "self-attributions":
+
+Everything was self-modeled in Skethup or Blender. 
+
+The water shader is from https://www.shadertoy.com/view/MdlXz8
+
+The diaplcement map for Sphere-1 is from https://wiki.splashdamage.com/index.php/Bump_Maps

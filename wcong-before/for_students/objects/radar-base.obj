@@ -1,0 +1,97 @@
+# Alias OBJ Model File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+# File units = inches
+
+mtllib radar-base.mtl
+
+g Mesh1 Group1 Model
+
+usemtl FrontColor
+v 2.39511 6.375 2.64028
+vt 6 0
+vn 0 1 -0
+v -3.60489 6.375 -3.35972
+vt 0 6
+v -3.60489 6.375 2.64028
+vt 0 0
+f 1/1/1 2/2/1 3/3/1
+
+v 2.39511 6.375 -3.35972
+vt 6 6
+f 2/2/1 1/1/1 4/4/1
+
+usemtl BackColor
+vn -0 -1 0
+f 3/3/2 2/2/2 1/1/2
+
+usemtl FrontColor
+vt -6 6.375
+vn -1 0 -0
+v -3.60489 -5.68434e-14 2.64028
+vt 0 6.375
+f 2/5/3 5/3/3 3/6/3
+
+v -3.60489 -5.68434e-14 -3.35972
+vt -6 0
+f 5/3/3 2/5/3 6/7/3
+
+usemtl BackColor
+vn 1 -0 0
+f 3/6/4 5/3/4 2/5/4
+
+usemtl FrontColor
+vn 0 0 1
+vt 6 6.375
+f 5/3/5 1/8/5 3/6/5
+
+v 2.39511 -5.68434e-14 2.64028
+f 1/8/5 5/3/5 7/1/5
+
+usemtl BackColor
+vn -0 -0 -1
+f 7/1/6 5/3/6 1/8/6
+
+usemtl FrontColor
+vn 0 -1 -0
+v 2.39511 -5.68434e-14 -3.35972
+vt -6 6
+f 5/3/7 8/9/7 7/7/7
+
+f 8/9/7 5/3/7 6/2/7
+
+usemtl BackColor
+vn -0 1 0
+f 6/2/8 5/3/8 8/9/8
+
+f 6/7/4 2/5/4 5/3/4
+
+usemtl FrontColor
+vn 0 0 -1
+f 2/6/9 8/7/9 6/3/9
+
+f 8/7/9 2/6/9 4/5/9
+
+usemtl BackColor
+vn -0 -0 1
+f 6/3/10 8/7/10 2/6/10
+
+f 4/5/10 2/6/10 8/7/10
+
+f 4/4/2 1/1/2 2/2/2
+
+usemtl FrontColor
+vn 1 0 -0
+f 1/6/11 8/1/11 4/8/11
+
+f 8/1/11 1/6/11 7/3/11
+
+usemtl BackColor
+vn -1 -0 0
+f 7/3/12 1/6/12 8/1/12
+
+f 4/8/12 8/1/12 1/6/12
+
+f 7/7/8 8/9/8 5/3/8
+
+f 3/6/6 1/8/6 5/3/6
+

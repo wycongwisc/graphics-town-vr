@@ -1,0 +1,10 @@
+Three different behaviors that you made:
+1. The two helicopters (one moving in a circle that is rideable, the other moving in a star shape) (Heli Scene*)
+2. Forklift* (see below)
+3. Dump Truck* (see below), fan* (rotates on x-axis)
+
+One behavior that is not simple:
+Not simple: Forklift* (carries the box to a location, lifts the box up so that it can be grabbed by the arm, lowers the lift after it has been grabbed and continues on)
+
+Animated Articulated Figure:
+Articulated: Dump Truck* (drifting in a circle while the bin moves up and down)

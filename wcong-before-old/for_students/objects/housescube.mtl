@@ -1,0 +1,281 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl M_0045_Goldenrod
+Ka 0.000000 0.000000 0.000000
+Kd 0.854902 0.647059 0.125490
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0134_DimGray
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0136_Charcoal
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0135_DarkGray
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.317647 0.317647
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0037_SandyBrown
+Ka 0.000000 0.000000 0.000000
+Kd 0.956863 0.643137 0.376471
+Ks 0.000000 0.000000 0.000000
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.698039 0.733333
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0133_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0132_LightGray
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.662745 0.662745
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0044_DarkGoldenrod
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.525490 0.043137
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0131_Silver
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.000000 0.000000 0.000000
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0128_White
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl Mirror_02
+Ka 0.000000 0.000000 0.000000
+Kd 0.898039 0.898039 0.898039
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/Mirror_02.jpg
+
+newmtl M_0034_Wheat
+Ka 0.000000 0.000000 0.000000
+Kd 0.960784 0.870588 0.701961
+Ks 0.000000 0.000000 0.000000
+
+newmtl Color_F06
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.800000 0.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl Color_F05
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0042_Sienna
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.321569 0.176471
+Ks 0.000000 0.000000 0.000000
+
+newmtl Color_C06
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.400000 0.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0033_NavajoWhite
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.870588 0.678431
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0036_BurlyWood
+Ka 0.000000 0.000000 0.000000
+Kd 0.870588 0.721569 0.529412
+Ks 0.000000 0.000000 0.000000
+
+newmtl _Roofing_Scalloped_Ornate__6
+Ka 0.000000 0.000000 0.000000
+Kd 0.956863 0.823529 0.776471
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__6.jpg
+
+newmtl Roofing_Scalloped_Ornate
+Ka 0.000000 0.000000 0.000000
+Kd 0.858824 0.364706 0.196078
+Ks 0.000000 0.000000 0.000000
+
+newmtl _Roofing_Scalloped_Ornate__8
+Ka 0.000000 0.000000 0.000000
+Kd 0.956863 0.823529 0.776471
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__8.jpg
+
+newmtl _Roofing_Scalloped_Ornate__7
+Ka 0.000000 0.000000 0.000000
+Kd 0.847059 0.360784 0.192157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__7.jpg
+
+newmtl _Roofing_Scalloped_Ornate__5
+Ka 0.000000 0.000000 0.000000
+Kd 0.854902 0.364706 0.192157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__5.jpg
+
+newmtl _Roofing_Scalloped_Ornate__9
+Ka 0.000000 0.000000 0.000000
+Kd 0.854902 0.364706 0.192157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__9.jpg
+
+newmtl Color_C07
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.298039 0.000000
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0032_Moccasin
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.894118 0.709804
+Ks 0.000000 0.000000 0.000000
+
+newmtl M_0035_Tan
+Ka 0.000000 0.000000 0.000000
+Kd 0.823529 0.705882 0.549020
+Ks 0.000000 0.000000 0.000000
+
+newmtl _Roofing_Scalloped_Ornate__3
+Ka 0.000000 0.000000 0.000000
+Kd 0.956863 0.823529 0.776471
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__3.jpg
+
+newmtl _Roofing_Scalloped_Ornate__2
+Ka 0.000000 0.000000 0.000000
+Kd 0.956863 0.823529 0.776471
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__2.jpg
+
+newmtl _Roofing_Scalloped_Ornate__4
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.364706 0.192157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__4.jpg
+
+newmtl _Roofing_Scalloped_Ornate__1
+Ka 0.000000 0.000000 0.000000
+Kd 0.847059 0.360784 0.192157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__1.jpg
+
+newmtl _Roofing_Scalloped_Ornate_
+Ka 0.000000 0.000000 0.000000
+Kd 0.850980 0.364706 0.192157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate_.jpg
+
+newmtl _Roofing_Scalloped_Ornate__26
+Ka 0.000000 0.000000 0.000000
+Kd 0.956863 0.819608 0.772549
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__26.jpg
+
+newmtl _Roofing_Scalloped_Ornate__25
+Ka 0.000000 0.000000 0.000000
+Kd 0.956863 0.823529 0.772549
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__25.jpg
+
+newmtl _Roofing_Scalloped_Ornate__24
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.364706 0.192157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__24.jpg
+
+newmtl _Roofing_Scalloped_Ornate__23
+Ka 0.000000 0.000000 0.000000
+Kd 0.854902 0.364706 0.192157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__23.jpg
+
+newmtl _Roofing_Scalloped_Ornate__12
+Ka 0.000000 0.000000 0.000000
+Kd 0.854902 0.364706 0.192157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__12.jpg
+
+newmtl _Roofing_Scalloped_Ornate__16
+Ka 0.000000 0.000000 0.000000
+Kd 0.968627 0.862745 0.823529
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__16.jpg
+
+newmtl _Roofing_Scalloped_Ornate__18
+Ka 0.000000 0.000000 0.000000
+Kd 0.968627 0.862745 0.823529
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__18.jpg
+
+newmtl _Roofing_Scalloped_Ornate__17
+Ka 0.000000 0.000000 0.000000
+Kd 0.847059 0.360784 0.192157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__17.jpg
+
+newmtl _Roofing_Scalloped_Ornate__22
+Ka 0.000000 0.000000 0.000000
+Kd 0.882353 0.490196 0.352941
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__22.jpg
+
+newmtl _Roofing_Scalloped_Ornate__19
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.364706 0.196078
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__19.jpg
+
+newmtl _Roofing_Scalloped_Ornate__11
+Ka 0.000000 0.000000 0.000000
+Kd 0.854902 0.364706 0.192157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__11.jpg
+
+newmtl _Roofing_Scalloped_Ornate__13
+Ka 0.000000 0.000000 0.000000
+Kd 0.960784 0.835294 0.792157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__13.jpg
+
+newmtl _Roofing_Scalloped_Ornate__14
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.364706 0.196078
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__14.jpg
+
+newmtl _Roofing_Scalloped_Ornate__20
+Ka 0.000000 0.000000 0.000000
+Kd 0.968627 0.878431 0.843137
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__20.jpg
+
+newmtl _Roofing_Scalloped_Ornate__15
+Ka 0.000000 0.000000 0.000000
+Kd 0.960784 0.835294 0.792157
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__15.jpg
+
+newmtl _Roofing_Scalloped_Ornate__21
+Ka 0.000000 0.000000 0.000000
+Kd 0.976471 0.905882 0.882353
+Ks 0.000000 0.000000 0.000000
+map_Kd housescube/_Roofing_Scalloped_Ornate__21.jpg
+

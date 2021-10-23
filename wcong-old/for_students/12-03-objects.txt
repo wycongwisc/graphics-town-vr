@@ -1,0 +1,26 @@
+Two kinds of objects created for this assignment:
+1. Pine trees (Factory Cube*)
+2. Factory buildings (Factory Cube*)
+
+*every object in Factory Cube was created for this assignment
+
+Five other kinds of objects that you created:
+3. Rocks (Factory Cube*, Construction Cube*)
+4. Factory pipes (Factory Cube*)
+5. Fan attached to factory building (Factory Cube*)
+6. Fluid storage containers (Factory Cube*)
+7. Cardboard box (Factory Cube*)
+
+*note that these items aren't highlighted individually because they are part of the same loaded object
+**every object in the scene is self-modeled
+
+At least on of each type of object:
+Building/structure: Factory buildings (Factory Cube*), houses (Houses Cube*)
+Vehicle: Forklift, dump truck (Construction Cube*), car, helicopter (Heli Scene*)
+Natural Element: Trees, rocks, islands (Island Cube*)
+
+Object loaded from a model file:
+Model: Factory Cube* (loaded from .glb file, self-modeled in Blender)
+
+An object with a shader that you wrote:
+ShaderObj: Sphere-1* (the spinning yellow/orange ball with a displacement shader i.e. the world "core")
