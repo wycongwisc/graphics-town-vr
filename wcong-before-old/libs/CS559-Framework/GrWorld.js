@@ -24,6 +24,7 @@ import * as T from "../CS559-Three/build/three.module.js";
 import { OrbitControls } from "../CS559-Three/examples/jsm/controls/OrbitControls.js";
 import { FlyControls } from "../CS559-Three/examples/jsm/controls/FlyControls.js";
 
+import { VRButton } from '../CS559-Three/examples/jsm/webxr/VRButton.js';
 import { VrHelper } from './vrHelper.js'
 // import Stats from '../../js/stats.js'
 
@@ -102,6 +103,9 @@ export class GrWorld {
                 : new T.WebGLRenderer(
                     "renderparams" in params ? params.renderparams : {}
                 );
+
+        this.renderer.xr.enabled = true;
+        document.body.appendChild(VRButton.createButton(this.renderer))
 
         // width and height are tricky, since they can come from many places
         let width = 600;
@@ -371,12 +375,12 @@ export class GrWorld {
         /** @type {HTMLInputElement} */
         this.speedcontrol = params.speedcontrol;
 
-        this.vrHelper = new VrHelper({
-            renderer: this.renderer,
-            scene: this.scene,
-            camera: this.camera,
-            flightSpeed: 10,
-        })
+        // this.vrHelper = new VrHelper({
+        //     renderer: this.renderer,
+        //     scene: this.scene,
+        //     camera: this.camera,
+        //     flightSpeed: 10,
+        // })
 
         // this.stats = Stats()
         // this.stats.setMode(0);
@@ -683,7 +687,7 @@ export class GrWorld {
         // since we're already running an animation loop, update view controls here.
         // Pass in a delta since that's what fly controls want. Orbit controls can just ignore.
 
-        this.vrHelper.update()
+        // this.vrHelper.update()
         // this.stats.update()
 
         if ((this.view_mode == "Orbit Camera") && this.orbit_controls) {
