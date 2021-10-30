@@ -42,6 +42,19 @@ export class VrHelper {
             this.vrFlightVec = new T.Vector3(0, 0, 0)
             this.isFlying = false;
         }) 
+
+        this.controller1.addEventListener('selectstart', () => {
+            let dir = this.renderer.xr.getCamera(this.camera).getWorldDirection(new T.Vector3(0,0,0))
+            dir = dir.multiplyScalar(-1)
+
+            this.vrFlightVec = dir.normalize()
+            this.isFlying = true;
+        })
+
+        this.controller1.addEventListener('selectend', () => {
+            this.vrFlightVec = new T.Vector3(0, 0, 0)
+            this.isFlying = false;
+        })
     }    
 
     update() {
