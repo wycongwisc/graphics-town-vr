@@ -1,0 +1,14 @@
+AdvancedThing: Complex Behavior (#2)
+Forklift* moves to a location with a box, lifts the box so that the arm* can extend and grab it; waits for this process to finish then lowers the lift and continues on.
+
+AdvancedThing: Complex Object (#3)
+I modeled everything in Factory Cube* in Blender. The ground is subdivided and the vertices are moved according to a noise function to achieve a rough, dirt effect. The pipes were created by applying a Skin modifier to a 2D curve and then subdividing to achieve a cylindrical shape. The rocks were created by displacing a subdivided cube using Voronoi noise and then applying a decimate modifier to achieve a low-poly look.
+
+AdvancedThing: Particle System (#4) 
+The smoke coming out of the factory building funnels*. Created using randomly placed vertices in a Points mesh with an upward velocity.
+
+AdvancedThing: Animated Shader Effect (#5)
+Complex adaptation of an animated water shader for Island Cube*. Shader was adapted from screen coordinates to object UV coordinates and requrired adding time uniforms using THREE's Clock object. Many syntax changes to convert from ShaderToy -> THREE.
+
+AdvancedThing: Large Diversity (#13)
+Many different types of vehicles (heli, truck, car, forklift), 3 different types of trees, many different props (wood planks, boxes, bridge, etc), each of the 4 cubes contains a distinct theme and each object on the cube fits the repsective theme

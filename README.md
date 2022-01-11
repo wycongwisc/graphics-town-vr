@@ -32,3 +32,4 @@
         ```
     3. In `go()`, replace `window.requestAnimationFrame(loop);` with `self.renderer.setAnimationLoop(loop)`.
 4. Create a folder named `webxr` at `/libs/CS559-Three/examples/jsm/` and add `VRButton.js` and `XRControllerModelFactory.js`
+5. Replace `three.module.js` at `/libs/CS559/build/` with `three.module.js`.
